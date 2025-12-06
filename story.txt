@@ -1,3 +1,4 @@
 Chapter 1.5: Fix typo in Main
 Chapter 2: Written by A
+Chapter 3: Written by B
 Chapter 4: Urgent fix in Main
